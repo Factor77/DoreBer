@@ -6,6 +6,7 @@ DoreBer: **Do**cument-Level **R**elation **E**xtraction Method **B**ased on B**e
 ```
 python==3.9.16
 torch==2.0.1+cu117
+
 json5==0.9.6
 jsonschema==3.2.0
 networkx==2.8.6
