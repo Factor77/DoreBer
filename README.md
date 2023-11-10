@@ -25,17 +25,17 @@ For the dataset and pretrained embeddings, please download it [here](https://git
 # Data Preprocessing
 After you download the dataset, please put the files train_annotated.json, dev.json and test.json to the ./data directory, and files in pre directory to the code/prepro_data. Run:
 ```
-python3 gen_data.py 
+python gen_data.py 
 ```
 For the BERT encoder:
 ```
-python3 gen_data_bert.py
+python gen_data_bert.py
 ```
 
 # Training
 In order to train the model, run:
 ```
-python3 train.py
+python train.py
 ```
 For the BERT encoder, Please set the '--model_name' as 'LSR_bert'
 
@@ -43,7 +43,7 @@ For the BERT encoder, Please set the '--model_name' as 'LSR_bert'
 # Test
 After the training process, we can test the model by:
 ```
-python3 test.py
+python test.py
 ```
 
 # Related Repo
