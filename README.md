@@ -1,5 +1,5 @@
 # DoreBer
-DoreBer: Document-Level Relation Extraction Method Based on BernNet
+DoreBer: **Do**cument-Level **R**elation **E**xtraction Method **B**ased on B**er**nNet
 
 
 # Requirement
