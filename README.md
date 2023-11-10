@@ -6,7 +6,6 @@ DoreBer: Document-Level Relation Extraction Method Based on BernNet
 ```
 python==3.9.16
 torch==2.0.1+cu117
-en-core-web-sm @ file:///root/persistant/item1_LSR/LSR/code/en_core_web_sm-3.4.1.tar.gz
 json5==0.9.6
 jsonschema==3.2.0
 networkx==2.8.6
